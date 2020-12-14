@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/[leehsanttana]/[leehsanttana]/blob/[branch]/banner.jpg?raw=true)
 
 # Olá, eu sou o Leonam! ^^
 
@@ -12,6 +12,11 @@ Vamos nos conectar!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonam-santana-5352a61b3/)](https://www.linkedin.com/in/leonam-santana-5352a61b3/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leonam.santtana/)](https://www.instagram.com/leonam.santtana/)
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+Técnologias de meu conhecimento:
+
+- HTML5;
+- CSS3;
+- Bootstrap;
+- Javascript;
+- Photoshop;
+- Corel Draw.
