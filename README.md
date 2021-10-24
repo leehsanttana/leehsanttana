@@ -4,13 +4,14 @@
 
 <h3>Sobre mim</h3>
 
-Sou um amante da técnologia e Design e hoje estou trilhando meu caminho como Desenvolvedor web. Atualmente estou dominando HTML5, CSS3 e Javascript e estou me especializando em Javascript para poder ingressar em React. Também gosto muito de Design Gráfico e estudo um pouco de Photoshop.
+Amante da técnologia, estou em busca de uma oportunidade no ramo da programação como programador Front-End. Atualmente domino as linguaguens HTML5, CSS3 e ES6 e estou em aprendizado da grande framework de Javascript, o React. Possuio conhecimento de Web Design e UI.
 
 <a href="https://leehsanttana.github.io/personal-portfolio/" target="_blanck"><b>Meu Portfólio</b></a>
 
 <h3>Técnologias de meu conhecimento:</h3>
 
 <ul>
+  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></li>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></li>
   <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></li>
   <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></li>
