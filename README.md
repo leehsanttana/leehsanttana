@@ -1,4 +1,4 @@
-![alt text](https://github.com/leehsanttana/leehsanttana/blob/master/banner.jpg?raw=true)
+![alt text](https://github.com/leehsanttana/leehsanttana/blob/master/banner2.jpg?raw=true)
 
 <h1>Olá, eu sou o Leonam! ^^</h1>
 
