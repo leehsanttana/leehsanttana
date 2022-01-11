@@ -4,9 +4,11 @@
 
 <h3>Sobre mim</h3>
 
-Amante da técnologia, estou em busca de uma oportunidade no ramo da programação como programador Front-End. Atualmente domino as linguaguens HTML5, CSS3 e ES6 e estou em aprendizado da grande framework de Javascript, o React. Possuio conhecimento de Web Design e UI.
+Sou Desenvolvedor Front-End, apaixonado por tecnologia e desenvolvimento, a procura de uma oportunidade na área. Estudo a 3 anos Front-End e Designer Gráfico e atualmente estou me especializando na Framework ReactJs. 
 
-<a href="https://leehsanttana.github.io/personal-portfolio/" target="_blanck"><b>Meu Portfólio</b></a>
+Conheça meu portfólio:
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leonam-santana-developer.vercel.app/)
 
 <h3>Minhas Skills:</h3>
 
