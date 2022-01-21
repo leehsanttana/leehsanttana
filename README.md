@@ -22,7 +22,7 @@ Conheça meu portfólio:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehsanttana&show_icons=true&theme=synthwave)
 
 <h4>Vamos nos conectar!</h4
 
